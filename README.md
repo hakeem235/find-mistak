@@ -2,7 +2,7 @@
 
 ## HTML Changes :
 
-* Change the tital of the wedsite : 
+* Change the tital of the wedsite : ![website name](./README-img/website_name.png)
 
 * Added comments.
 
@@ -22,5 +22,6 @@
 * Reordered the selector so it macth the strucer of the HTML.
 
 * Deleted the redundant codes 
+![CSS style](./README-img/CSS1.png)
+![CSS style](./README-img/CSS2.png)
 
-* 
